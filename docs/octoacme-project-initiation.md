@@ -14,9 +14,9 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Minimum Deliverables
 - Project One-pager (Problem, Goal, Success Metrics)
-- Stakeholder list & communication plan
+- Stakeholder list & communication plan (coordinated by Stakeholder Representative when available)
 - High-level timeline and key milestones
-- Initial risk list
+- Initial risk list (facilitated by Risk Coordinator when available)
 - Resource needs (team roles, rough effort estimate)
 
 ## Project One-pager Template

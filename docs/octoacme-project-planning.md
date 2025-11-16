@@ -9,12 +9,12 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Align timelines, releases, and responsibilities
 
 ## Activities
-1. Kickoff meeting with stakeholders and delivery team
+1. Kickoff meeting with stakeholders and delivery team (facilitated by Project Manager, with Stakeholder Representative for stakeholder engagement)
 2. Create prioritized backlog with acceptance criteria
 3. Estimate scope (T-shirt sizing or story points)
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
-6. Create release plan and milestone map
+6. Create release plan and milestone map (with Release Manager when available)
 
 ## Backlog Item Template
 - Title:
@@ -29,9 +29,10 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Timebox planning to agreed sprint length
 - Pull items that meet DoD and have clear acceptance criteria
 - Ensure team capacity is respected
+- Agile Coach facilitates planning when available
 
 ## Risk & Dependency Management
-- Capture in Risk Register:
+- Capture in Risk Register (maintained by Risk Coordinator when available, otherwise by PM):
   - ID, Description, Impact, Probability, Owner, Mitigation
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
