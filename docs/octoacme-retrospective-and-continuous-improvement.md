@@ -13,6 +13,7 @@ After each sprint, release, or important milestone. Also after incidents.
 - Follow-up on previous action items
 
 ## Running a Retrospective
+The **Agile Coach** typically facilitates retrospectives, though any team member can lead them:
 - Timebox: 45–75 minutes depending on team size
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
@@ -29,5 +30,8 @@ After each sprint, release, or important milestone. Also after incidents.
 - Success criteria:
 
 ## Continuous Improvement Culture
-- Measure impact of action items
-- Celebrate improvements and make small, iterative changes
+The **Agile Coach** champions continuous improvement by:
+- Measuring impact of action items
+- Celebrating improvements and making small, iterative changes
+- Coaching teams on agile best practices
+- Identifying and removing process impediments

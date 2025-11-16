@@ -20,6 +20,15 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+## Extended Roles
+These specialized roles may be assigned based on project complexity and organizational needs:
+- Release Manager: oversees release lifecycle and deployment coordination.
+- Risk Coordinator: monitors risks, facilitates risk discussions, and tracks mitigation.
+- Stakeholder Representative: channels stakeholder priorities and ensures alignment.
+- Agile Coach: guides teams in agile practices and champions continuous improvement.
+
+See [octoacme-roles-and-personas.md](octoacme-roles-and-personas.md) for detailed role descriptions and interaction examples.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
